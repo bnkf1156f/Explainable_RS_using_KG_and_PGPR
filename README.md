@@ -1,18 +1,21 @@
-# Explainable_RS_using_KG_and_PGPR Project
-This repository implements an Explainable Recommender System using the Policy-Guided Path Reasoner (PGPR) over a knowledge graph built from the MovieLens-1M dataset. The system not only recommends items but also generates concise, human-readable explanations derived from multi-hop reasoning paths. <br><br>
+# Explainable Recommender System using Knowledge Graph and PGPR
+This repository implements an Explainable Recommender System using the Policy-Guided Path Reasoner (PGPR) over a knowledge graph constructed from the MovieLens-1M dataset. The system provides both item recommendations and human-readable explanations via multi-hop reasoning paths.
 
-First access to this link for all the required files: 
-<a href="https://drive.google.com/drive/folders/1FBnh8SJvdTgmJoUoMvrzg7BppiHO8oIc">Drive Link</a>
-
-Explainable_RS_using_KG_and_PGPR/
-│
-├── data/                  # Dataset and KG files (download from Drive)
-├── models/                # Pretrained models (download from Drive)
-├── results/               # Generated while running the code
-│
-├── knowledge_graph_utils.py   # Utility functions for building and querying the KG
-├── main_Explainable_RS.ipynb  # Main notebook to run the system
-├── mapper.py                  # Maps IDs to human-readable formats
-├── requirements.txt           # List of required Python packages
-├── setup.py                   # Setup script for the project
-└── utils.py                   # General utility functions
+## 📁 Dataset and Pretrained Models
+📥 Download all required files (datasets, pretrained models, etc.) from the following Google Drive link: <br>
+👉 Google Drive – <a href="https://drive.google.com/drive/folders/1FBnh8SJvdTgmJoUoMvrzg7BppiHO8oIc">Required Files</a>
+<br><br>
+**After downloading, ensure your project directory has the following structure:**
+<br>
+Explainable_RS_using_KG_and_PGPR/<br>
+│<br>
+├── data/                  # Dataset and KG files (download from Drive)<br>
+├── models/                # Pretrained models (download from Drive)<br>
+├── results/               # Generated while running the code<br>
+│<br>
+├── knowledge_graph_utils.py   # Utility functions for building and querying the KG<br>
+├── main_Explainable_RS.ipynb  # Main notebook to run the system<br>
+├── mapper.py                  # Maps IDs to human-readable formats<br>
+├── requirements.txt           # List of required Python packages<br>
+├── setup.py                   # Setup script for the project<br>
+└── utils.py                   # General utility functions<br>
