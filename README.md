@@ -71,7 +71,6 @@ Explainable_RS_using_KG_and_PGPR/
 <h2>📚 References</h2>
 <ul>
   <li>MovieLens Dataset: <a href="https://grouplens.org/datasets/movielens/" target="_blank">https://grouplens.org/datasets/movielens/</a></li>
-  <li>PGPR (Policy-Guided Path Reasoning) Paper: <a href="https://arxiv.org/abs/1811.00552" target="_blank">https://arxiv.org/abs/1811.00552</a></li>
   <li>Tutorial Followed: <a href="https://explainablerecsys.github.io/recsys2022/">Project Page</a></li>
 </ul>
 
