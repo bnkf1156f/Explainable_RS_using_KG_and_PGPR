@@ -9,13 +9,13 @@ This repository implements an Explainable Recommender System using the Policy-Gu
 <br>
 Explainable_RS_using_KG_and_PGPR/<br>
 │<br>
-├── data/                  # Dataset and KG files (download from Drive)<br>
-├── models/                # Pretrained models (download from Drive)<br>
-├── results/               # Generated while running the code<br>
+├── data/ <pre>                 # Dataset and KG files (download from Drive)<br>
+├── models/ <pre>               # Pretrained models (download from Drive)<br>
+├── results/ <pre>              # Generated while running the code<br>
 │<br>
-├── knowledge_graph_utils.py   # Utility functions for building and querying the KG<br>
-├── main_Explainable_RS.ipynb  # Main notebook to run the system<br>
-├── mapper.py                  # Maps IDs to human-readable formats<br>
-├── requirements.txt           # List of required Python packages<br>
-├── setup.py                   # Setup script for the project<br>
-└── utils.py                   # General utility functions<br>
+├── knowledge_graph_utils.py<pre>   # Utility functions for building and querying the KG<br>
+├── main_Explainable_RS.ipynb<pre>  # Main notebook to run the system<br>
+├── mapper.py<pre>                  # Maps IDs to human-readable formats<br>
+├── requirements.txt<pre>           # List of required Python packages<br>
+├── setup.py<pre>                   # Setup script for the project<br>
+└── utils.py<pre>                   # General utility functions<br>
