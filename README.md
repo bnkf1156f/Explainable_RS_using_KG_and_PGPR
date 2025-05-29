@@ -68,5 +68,15 @@ Explainable_RS_using_KG_and_PGPR/
 
 <hr>
 
+<h2>📚 References</h2>
+<ul>
+  <li>Xin, X., Zhang, H., Wang, W., & Yu, P. S. (2020). <strong>Explainable Recommendation via Multi-Task Learning in Opinionated Text Data</strong>. In <em>Proceedings of the 13th International Conference on Web Search and Data Mining (WSDM)</em>.</li>
+  <li>MovieLens Dataset: <a href="https://grouplens.org/datasets/movielens/" target="_blank">https://grouplens.org/datasets/movielens/</a></li>
+  <li>PGPR (Policy-Guided Path Reasoning) Paper: <a href="https://arxiv.org/abs/1811.00552" target="_blank">https://arxiv.org/abs/1811.00552</a></li>
+  <li>Tutorial Followed: <a href="https://explainablerecsys.github.io/recsys2022/">Project Page</a></li>
+</ul>
+
+<hr>
+
 <h2>📝 License</h2>
 <p>This project is for <strong>educational and research purposes only</strong>.</p>
