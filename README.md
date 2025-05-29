@@ -71,10 +71,10 @@ Explainable_RS_using_KG_and_PGPR/
 <h2>📚 References</h2>
 <ul>
   <li>MovieLens Dataset: <a href="https://grouplens.org/datasets/movielens/" target="_blank">https://grouplens.org/datasets/movielens/</a></li>
-  <li>Tutorial Followed: <a href="https://explainablerecsys.github.io/recsys2022/">Project Page</a></li>
+  <li>Inspiration: <a href="https://explainablerecsys.github.io/recsys2022/">Project Page</a></li>
 </ul>
 
 <hr>
 
 <h2>📝 License</h2>
-<p>This project is for <strong>educational and research purposes only</strong>.</p>
+<p>This project is for <strong>educational purpose only</strong>.</p>
