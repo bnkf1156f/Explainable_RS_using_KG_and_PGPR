@@ -31,3 +31,42 @@ Explainable_RS_using_KG_and_PGPR/
 </pre>
 
 <hr>
+
+<h2>📦 Installation/Set up of environment</h2>
+
+<pre><code>python -m venv <env_name_as_per_your_choice>
+</code></pre>
+<pre><code><env_name>/Scripts/activate
+</code></pre>
+<pre><code>pip install -r requirements.txt
+</code></pre>
+
+<hr>
+
+<h2>🚀 Running the Project</h2>
+
+<ol>
+  <li>Open the notebook: <code>main_Explainable_RS.ipynb</code></li>
+  <li>Run all cells to:
+    <ul>
+      <li>Load the knowledge graph</li>
+      <li>Train the PGPR model</li>
+      <li>Generate recommendations and explanations</li>
+    </ul>
+  </li>
+</ol>
+
+<hr>
+
+<h2>💡 Features</h2>
+<ul>
+  <li>Multi-hop reasoning over knowledge graphs</li>
+  <li>Policy-guided explanation generation / **Reinforcement Learning in RS**</li>
+  <li>Human-interpretable recommendation paths</li>
+  <li>Built using the MovieLens-1M dataset</li>
+</ul>
+
+<hr>
+
+<h2>📝 License</h2>
+<p>This project is for <strong>educational and research purposes only</strong>.</p>
