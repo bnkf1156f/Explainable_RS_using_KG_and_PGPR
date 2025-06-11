@@ -74,5 +74,3 @@ Explainable_RS_using_KG_and_PGPR/
   <li>Tutorial: <a href="https://explainablerecsys.github.io/recsys2022/">Project Page</a></li>
 </ul>
 
-<hr>
-
