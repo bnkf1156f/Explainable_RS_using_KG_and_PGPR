@@ -61,7 +61,7 @@ Explainable_RS_using_KG_and_PGPR/
 <h2>💡 Features</h2>
 <ul>
   <li>Multi-hop reasoning over knowledge graphs</li>
-  <li>Policy-guided explanation generation / **Reinforcement Learning in RS**</li>
+  <li>Policy-guided explanation generation / Reinforcement Learning in RS</li>
   <li>Human-interpretable recommendation paths</li>
   <li>Built using the MovieLens-1M dataset</li>
 </ul>
@@ -76,5 +76,3 @@ Explainable_RS_using_KG_and_PGPR/
 
 <hr>
 
-<h2>📝 License</h2>
-<p>This project is for <strong>educational purpose only</strong>.</p>
